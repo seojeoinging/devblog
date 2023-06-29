@@ -21,7 +21,7 @@
 title: Gloria's Tech Blog
 email: glorie0811@gmiagmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This blog is about my random thoughts.
+  This blog is about my random thoughts. This is my tech blog.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
