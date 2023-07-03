@@ -5,70 +5,51 @@ date:   2023-06-27 08:07:56 +0000
 categories: development
 ---
 
-Hello world.
+Gloria Kim
 
-## Header2
+## Map
 
-### Header3
-
-#### Header4
+### from Simon Tatham's Portaable Puzzle Collection
 
 ---
 
-#### Bold text
+![myimage](https://res.cloudinary.com/dtiwg4oto/image/upload/v1688039960/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-06-29_085727_rvrgxo.png)
 
-this is **bold text**
+![myimage](https://res.cloudinary.com/dtiwg4oto/image/upload/v1688039871/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-06-29_085532_rtzlzd.png)
 
-#### Italic text
+### Description
 
-this is *italic text*
+> Complete the map by colouring all the blank areas. The average time required to solve a normal level puzzle is 4 to 7 minutes.
 
-### Blod quote
+#### Rules
 
-> NOTE: this informatio may not be correct
+1. The regions already coloured **cannot** be coloured in another colour
+2. **No** two adjacent regions can have the same colour
+3. Four colours provided (red, yellow, green, and brown)
+4. Drag the grid into a region from outside to erase its colour
+5. Use the cursor keys to move arond the map
 
-#### Ordered List
+#### Tips**
 
-1. number one
-2. number two
-3. number three
-4. number four
+1. Undo/redo your move
+1. Adjust a size of puzzle if you want to challenge yourself
+1. Start with a region that is already adjacent to three other colours
+1. Press L to see a number in each region of the map
 
-#### Ordered list2
+#### Some factors that you cna develop through this puzzle
 
-1. number five
-1. number two
-1. number three
-1. number four
+- Memory enhancement
+- Mental exercise
+  - Problem-solving skills
+  - Creativity
+  - Persistence and patience
+- Stress reduction
+  - Decreases a risk of cognitive decline
 
-#### Unordered List
+#### Feedback
 
-- dot 1
-- dot 2
-- dot 3
-  - nested dot1
-  - nested dot2
-  - nested dot3
-    - nested-nested dot 1
-
-#### Code Block
-
-People like to use `javascript` for their front-end programming language.
-
-#### Full Code Block
-
-```javascript
-let people = ["John", "david", "sarah"]
-function namePerson(person) {
-  console.log(person)
-}
+```Janscript
+During the colour map puzzle activity, I found it to be a stimulating and engaging challenge. The puzzle 
+required careful observation and strategic thinking to determine the correct colour for each region. Also,
+the fact that you can play with your friends and you can adjust the difficulty level caught my attention.
 ```
-
-#### Link
-
-[youtube](https://www.youtube.com)
-
-#### Image
-
-![image](https://images.unsplash.com/photo-1687810253042-dd95fe94310f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1826&q=80)
-![myimage](https://res.cloudinary.com/dtiwg4oto/image/upload/v1688037606/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-06-29_081518_m6sbid.png)
