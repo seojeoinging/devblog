@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Playing around wiht Markdown Language"
-date:   2023-06-27 08:07:56 +0000
+title: "Playing around wiht Markdown Language"
+date: 2023-06-27 08:07:56 +0000
 categories: development
 ---
 
@@ -52,4 +52,9 @@ Gloria Kim
 During the colour map puzzle activity, I found it to be a stimulating and engaging challenge. The puzzle 
 required careful observation and strategic thinking to determine the correct colour for each region. Also,
 the fact that you can play with your friends and you can adjust the difficulty level caught my attention.
+One aspect that I found challenging during the colour puzzle activity was the amount of time it took and 
+the numerous attempts I had to make to find the correct color combinations. It would have been helpful if 
+there were clearer/more clues that could guide me towards the correct color placement. Overall, even though 
+there was a chanllenging aspect, I think this puzzle is highly beneficial to activate and stimulate your 
+brain.
 ```
