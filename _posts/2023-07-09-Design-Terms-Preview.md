@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Design Terms Preview"
+title: "Terms to know"
 date: 2023-06-29 08:07:56 +0000
 categories: development
 ---
