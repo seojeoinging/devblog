@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Terms to know"
-date: 2023-06-29 08:07:56 +0000
+date: 2023-07-09 08:07:56 +0000
 categories: development
 ---
 
