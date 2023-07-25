@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I received the results of my strength analysis and career report!"
-date:   2023-07-15 08:07:56 +0000
+date:   2023-07-25 08:07:56 +0000
 categories: development
 ---
 
