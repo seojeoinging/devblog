@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "How we came up with the game ideas 1"
-date: 2023-07-10 08:07:56 +0000
+title: "How we came up with the game ideas 2"
+date: 2023-07-14 08:07:56 +0000
 categories: development
 ---
 
 ## Creating the Rules
 
-To design the golden brain puzzle app, setting rules for a puzzle was the first thing to complete. A main goal of setting rules is to help users to better understand our puzzle. by setting rules, users are provided with clear objectives and create a challenge. Also, well-defined rules help provide structure and ensure that the puzzle remains fair and engaging.
+Setting rules for a puzzle was the first thing to complete. A main goal of setting rules is to help users to better understand our puzzle. by setting rules, users are provided with clear objectives and create a challenge. Also, well-defined rules help provide structure and ensure that the puzzle remains fair and engaging.
 
 ### here is our brief explanation of each rules:)
 
