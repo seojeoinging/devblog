@@ -15,6 +15,6 @@ They have a program that protects children in need and allows for one-on-one spo
 
 ---
 
-For the past 7 years, I have been consistently donating $5(It might seem like a small amount, but I've been doing this consistently haha.) to support children in need. And a fw days ago, I found out that the girl I was sponsoring wrote a letter to me!! I'm so excited to read it. This inspired me to pay more attention to global issues.
+For the past 9 years, I have been consistently donating $5(It might seem like a small amount, but I've been doing this consistently haha.) to support children in need. And a fw days ago, I found out that the girl I was sponsoring wrote a letter to me!! I'm so excited to read it. This inspired me to pay more attention to global issues.
 
 [Goodneighbors](https://www.goodneighbors.org/)
