@@ -9,7 +9,7 @@ categories: development
 
 Basically God Neighbors is an international humanitarian development NGO founded in Korea in 1991 to make the world a place without hunger, where people live together in harmony.
 
-- The first community development project in Bangladesh was launched in 1992 and currently Good Neighbors is working in 192 communities in 40 countries with our focus on inclusive community development approach and child protection.
+- The first community project in Bangladesh was launched in 1992 and currently Good Neighbors is working in 192 communities in 40 countries with our focus on inclusive community development approach and child protection.
 
 They have a program that protects children in need and allows for one-on-one sponsorship of children from overseas. There also have been cases of providing food aid to Ukrainian refugees and individuals from Afghanistan recently.
 
