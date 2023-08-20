@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is Goodneighbors?"
+title:  "Introduction of Goodneighbors"
 date:   2022-06-03 08:07:56 +0000
 categories: development
 ---
