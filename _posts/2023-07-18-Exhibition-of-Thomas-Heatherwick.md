@@ -40,3 +40,5 @@ creation of places for gathering, dialogue, recreation, and enjoyment,
 The use of color and light in Headerwick's paintings was particularly captivating. His mastery of these elements breathed life into his subjects, whether it was a bustling city street or a tranquil countryside scene. What stood out to me was Headerwick's attention to detail. His precision in capturing intricate textures, from the weathered facades of buildings to the delicate petals of flowers, added depth and authenticity to his work.
 
 I would like to visit again if I have any chance!
+
+[Thomas Heatherwick](https://www.dezeen.com/2023/08/03/vessel-thomas-heatherwick-new-york-matt-shaw-opinion/)
