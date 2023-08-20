@@ -5,7 +5,7 @@ date:   2023-07-18 08:07:56 +0000
 categories: development
 ---
 
-#### I went to an exhibition of Thomas Heatherwick:)
+#### I went to an exhibition of Thomas Heatherwick
 
 ![Myimage](https://res.cloudinary.com/dtiwg4oto/image/upload/v1692458374/IMG-6766_ehl3na.jpg)
 
