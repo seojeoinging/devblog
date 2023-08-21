@@ -5,7 +5,7 @@ date:  2023-08-06 09:37:56 +0000
 categories: development
 ---
 
-I recently took a strength assessment test through Gallup, and I received my results. This assessment aimed to identify my core strengths or themes by analyzing various aspects of my personality and characteristics. The results I obtained from the test provide insights into the areas where I naturally excel and have the potential to thrive.
+I recently took a strength assessment test through Gallup, and I received my results. They provided a personality assessment for which I spent around $25 as a testing fee. While I hesitated a bit about spending my allowance, I decided to invest in the personality assessment because it's a unique approach and seemed to offer more accurate results lol. This assessment aimed to identify my core strengths or themes by analyzing various aspects of my personality and characteristics. The results I obtained from the test provide insights into the areas where I naturally excel and have the potential to thrive.
 
 The assessment process involved answering a series of questions that assessed my preferences, tendencies, and responses in various situations. It took me to finish like one and a half hours lol. The accumulated data was then analyzed to determine which themes emerged as dominant in my personality.
 
