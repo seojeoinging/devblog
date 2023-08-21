@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Second Week of My Family Workshop"
+title:  "Family Workshop 2"
 date:   2023-07-16 08:07:56 +0000
 categories: development
 ---
