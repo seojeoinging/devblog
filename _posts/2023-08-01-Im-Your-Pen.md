@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Join for ” I’m your Pen”_English Translation volunte"
+title:  "Join for ” I’m your Pen”_English Translation volunteer"
 date:   2023-08-01 11:10:36 +0000
 categories: development
 ---
@@ -15,6 +15,8 @@ Founded in South Korea in 1991, Good Neighbors operates in
 various countries, providing support through a wide range of
 programs and initiatives.
 ```
+
+![image](https://res.cloudinary.com/dtiwg4oto/image/upload/v1692629035/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-08-21_234305_zfhkho.png)
 
 I have started to volunteer thorugh Good Neighbors in virtual means. My role involves translating letters from children all around the world. These letters come from various countries and cultures, and I help bridge the communication gap by translating them into a language that the recipients can understand.
 (The letters go to sponsors and are from children from around the world; They communicate through sharing their talents or life and exchanging their countries' news.)
