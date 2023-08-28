@@ -7,8 +7,6 @@ categories: development
 
 #### I went to an exhibition of Thomas Heatherwick
 
-![Myimage](https://res.cloudinary.com/dtiwg4oto/image/upload/v1692458374/IMG-6766_ehl3na.jpg)
-
 ![Myimage](https://res.cloudinary.com/dtiwg4oto/image/upload/v1692458384/IMG-6755_kalgim.jpg)
 
 Me and my mom went to an exhibition of Thomas Heatherwick in Seoul, South Korea. It was a great experience to obtain a unique perspective on abstraction and creativity. The collection of artworks was diverse and each artworks seemed to tell a story or meaning.
