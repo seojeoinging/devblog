@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Developing ESG Index based on data science technology"
-date:   2023-06-27 09:49:22 +0000
+date:   2022-10-29 09:49:22 +0000
 categories: development
 ---
 
