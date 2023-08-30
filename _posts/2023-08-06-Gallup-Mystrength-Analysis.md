@@ -19,3 +19,5 @@ The assessment process involved answering a series of questions that assessed my
 - **Empathy** : I can sense the emotions of those around me. I can feel what they are feeling . Intuitively, I'm able to see the world through their eyes and share their perspective. I don't necessarily agree with each person’s perspective. I don't necessarily feel pity for each person’s predicament—this would be sympathy, not Empathy. I don't necessarily condone the choices each person makes, but I do understand.
 
 - **Strategic** : The Strategic theme enables me to sort through the clutter and find the best route. It is not a skill that can be taught. It is a distinct way of thinking, a special perspective on the world at large. This perspective allows me to see patterns where others simply see complexity. Mindful of these patterns, I play out alternative scenarios, always asking, “What if this happened? Okay, well what if this happened?” This recurring question helps me to see around the next corner. There I can evaluate accurately the potential obstacles. Guided by where I see each path leading, I start to make selections.
+
+It was impressive
