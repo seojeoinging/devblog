@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Introduction of Goodneighbors"
-date:   2022-06-03 08:07:56 +0000
+title: "Introduction of Goodneighbors"
+date: 2022-06-03 08:07:56 +0000
 categories: development
+banner: https://res.cloudinary.com/dtiwg4oto/image/upload/v1692456311/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-08-19_234332_gpop8f.png
 ---
 
 ## Everything about Goodneighbors

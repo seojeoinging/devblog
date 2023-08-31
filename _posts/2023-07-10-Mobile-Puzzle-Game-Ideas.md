@@ -3,6 +3,7 @@ layout: post
 title: "How we came up with the game ideas 1"
 date: 2023-07-10 08:07:56 +0000
 categories: development
+banner: https://res.cloudinary.com/dtiwg4oto/image/upload/v1690219244/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-07-25_020930_dsxaoo.png
 ---
 
 ### initial ideas

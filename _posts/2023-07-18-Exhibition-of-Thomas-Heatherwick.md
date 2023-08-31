@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "I visited a Thomas Heatherwick Studio Exhibition"
-date:   2023-07-18 08:07:56 +0000
+title: "I visited a Thomas Heatherwick Studio Exhibition"
+date: 2023-07-18 08:07:56 +0000
 categories: development
+banner: https://res.cloudinary.com/dtiwg4oto/image/upload/v1692458384/IMG-6755_kalgim.jpg
 ---
 
 #### I went to an exhibition of Thomas Heatherwick
@@ -16,20 +17,20 @@ Me and my mom went to an exhibition of Thomas Heatherwick in Seoul, South Korea.
 #### Here is a little explanation about Thomas Heatherwick Studio Exhibition
 
 ```javascript
- Established in 1994 in London, Heatherwick Studio has undertaken innovative 
+ Established in 1994 in London, Heatherwick Studio has undertaken innovative
  projects in many cities including New York, Singapore, Shanghai, and Hong Kong,
-evolving to become one of the most closely-watched design teams in the world. 
-Founder Thomas Heatherwick (born 1970 in UK) recounts how he would often find 
+evolving to become one of the most closely-watched design teams in the world.
+Founder Thomas Heatherwick (born 1970 in UK) recounts how he would often find
 himself moved during his childhood by the “soulfulness” of small things that were
 made by craftspeople and artisans.
-Every design is rooted in a belief that even projects as large as a city can have a 
-human-scale, while harnessing the energies of the natural world and memories 
-contained within architecture into new designs. At the core of this approach is the 
+Every design is rooted in a belief that even projects as large as a city can have a
+human-scale, while harnessing the energies of the natural world and memories
+contained within architecture into new designs. At the core of this approach is the
 creation of places for gathering, dialogue, recreation, and enjoyment,
- instead of the design of “hard” elements that so often characterize products 
- and buildings. Even as the Studio studies the history of objects and places, 
+ instead of the design of “hard” elements that so often characterize products
+ and buildings. Even as the Studio studies the history of objects and places,
  researches a wide spectrum of materials, and pays homage to traditional
-  craftsmanship, their spaces, which deploy the latest developments in engineering, 
+  craftsmanship, their spaces, which deploy the latest developments in engineering,
   are replete with innovative ideas that seem to have eluded everyone else
 ```
 

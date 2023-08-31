@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Family Workshop 2"
-date:   2023-07-16 08:07:56 +0000
+title: "Family Workshop 2"
+date: 2023-07-16 08:07:56 +0000
 categories: development
+banner: https://res.cloudinary.com/dtiwg4oto/image/upload/v1692575984/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-08-21_085915_citnjx.png
 ---
 
 #### Second Week of My Family Workshop

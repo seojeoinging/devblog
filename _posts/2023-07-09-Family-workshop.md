@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Family Workshop 1"
-date:   2023-07-09 08:07:56 +0000
+title: "Family Workshop 1"
+date: 2023-07-09 08:07:56 +0000
 categories: development
+banner: https://res.cloudinary.com/dtiwg4oto/image/upload/v1692539867/%EA%B7%B8%EB%A6%BC6_ce4pzk.png
 ---
 
 #### First week of our family workshop

@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Developing ESG Index based on data science technology"
-date:   2022-10-29 09:49:22 +0000
+title: "Developing ESG Index based on data science technology"
+date: 2022-10-29 09:49:22 +0000
 categories: development
+banner: https://res.cloudinary.com/dtiwg4oto/image/upload/v1693247518/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-08-28_153107_hvflur.png
 ---
-
 
 My father is in charge of the ESG field at a major IT company in Korea, so for several years now, he has frequently explained to me what ESG policies are, their purpose, and their importance.
 
