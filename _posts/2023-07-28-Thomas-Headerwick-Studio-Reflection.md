@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "I visited a Thomas Heatherwick Studio Exhibition 2"
-date:   2023-07-18 08:07:56 +0000
+title: "I visited a Thomas Heatherwick Studio Exhibition 2"
+date: 2023-07-18 08:07:56 +0000
 categories: development
+banner: https://res.cloudinary.com/dtiwg4oto/image/upload/v1692458374/IMG-6766_ehl3na.jpg
 ---
 
 #### More reflection on the Thomas Headerwick Studio Exhibition

@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Family Workshop 3"
-date:   2023-07-23 11:45:12 +0000
+title: "Family Workshop 3"
+date: 2023-07-23 11:45:12 +0000
 categories: development
+banner: https://res.cloudinary.com/dtiwg4oto/image/upload/v1692597940/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-08-21_150538_knjw08.png
 ---
 
 ---
