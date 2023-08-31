@@ -3,6 +3,7 @@ layout: post
 title: "How we came up with the game ideas 2"
 date: 2023-07-14 08:07:56 +0000
 categories: development
+banner: https://res.cloudinary.com/dtiwg4oto/image/upload/v1690220776/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-07-25_024427_x5sjcv.png
 ---
 
 ## Creating the Rules
@@ -27,4 +28,4 @@ Setting rules for a puzzle was the first thing to complete. A main goal of setti
 
 These were me and my teammates' little outlines of puzzle rules.
 
->My little thoughts: It was kind of challenging to creat rules because we needed to consider UX ( user experience) and UI (user interface). Rules need to be communited clearly to the users and should not confuse them while they play. Translating complex puzzle mechanics into user-friendly language can be difficult, especially when dealing with intricate or abstract puzzles. The challenge lies in making the rules concise, easy to understand, and accessible to users. Me and my teammates thought that too long or too complicated rules would annoy the user, so we made the rules as concise as possible.
+> My little thoughts: It was kind of challenging to creat rules because we needed to consider UX ( user experience) and UI (user interface). Rules need to be communited clearly to the users and should not confuse them while they play. Translating complex puzzle mechanics into user-friendly language can be difficult, especially when dealing with intricate or abstract puzzles. The challenge lies in making the rules concise, easy to understand, and accessible to users. Me and my teammates thought that too long or too complicated rules would annoy the user, so we made the rules as concise as possible.

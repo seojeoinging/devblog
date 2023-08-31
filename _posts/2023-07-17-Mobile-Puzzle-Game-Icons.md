@@ -3,7 +3,9 @@ layout: post
 title: "How we came up with the game ideas 3 - Icons and tutorials"
 date: 2023-07-17 08:07:56 +0000
 categories: deveopment
+banner: https://res.cloudinary.com/dtiwg4oto/image/upload/v1690225141/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-07-25_035748_vpvjrb.png
 ---
+
 ##### As we came up with the rules and ideas/outlines for the puzzle, now it's time to make an icon for the puzzle app. The role of an app icon is crucial because it serves as the visual representation of the app and plays multiple essential roles
 
 It is often the first visual element users encounter when searching for puzzles or apps. A well- designed and memorable icon helps users recognize and remember the app.

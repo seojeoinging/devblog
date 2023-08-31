@@ -1,5 +1,4 @@
 # Welcome to Jekyll!
-#
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
@@ -18,20 +17,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Gloria's Tech Blog
+title: Gloria's Personal Blog
 email: glorie0811@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I post blogs about my interests and random thoughts,exploring my consciousness. More posts will be posted soon
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username: jekyll
+heading: "Carpe Diem"
+subheading: Prof. Keating
+banner: assets/flowers-spring.png
 
 # Build settings
-theme: minima
+# theme: jekyll-theme-yat
+remote_theme: "jeffreytse/jekyll-theme-yat"
+
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
