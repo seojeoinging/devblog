@@ -31,6 +31,8 @@ banner: assets/flowers-spring.png
 
 # Build settings
 theme: jekyll-theme-yat
+remote_theme: "jeffreytse/jekyll-theme-yat"
+
 plugins:
   - jekyll-feed
 # Exclude from processing.
