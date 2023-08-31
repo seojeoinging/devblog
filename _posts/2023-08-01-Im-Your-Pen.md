@@ -3,7 +3,7 @@ layout: post
 title: "Join for ” I’m your Pen”_English Translation volunteer"
 date: 2023-08-01 11:10:36 +0000
 categories: development
-image: https://res.cloudinary.com/dtiwg4oto/image/upload/v1692629035/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-08-21_234305_zfhkho.png
+banner: https://res.cloudinary.com/dtiwg4oto/image/upload/v1692629035/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-08-21_234305_zfhkho.png
 ---
 
 #### Here is a basic information about Good neighbors:)
