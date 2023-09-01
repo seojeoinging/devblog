@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "sharing "Learn Python in 1 Hour" Beginners "
-date: 2022-07-15 01:23:33 +0000
+date: 2023-09-01 01:23:33 +0000
 categories: development
 banner: https://res.cloudinary.com/dtiwg4oto/image/upload/v1693587779/Studying_maths__3_kyffhz.jpg
 ---
