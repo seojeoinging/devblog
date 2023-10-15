@@ -1,22 +1,13 @@
 ---
 layout: post
-title: "Introducing Kidist:)"
-date: 2023-04-025 12:49:52 +0000
+title: "Introducing Kidist"
+date: 2023-04-025 12:49:12 +0000
 categories: development
 ---
 
 Last summer, I mentioned that I've been consistently donating a portion of my monthly allowance through the NGO organization called Good Neighbors for the past nine years. It might not be a large sum, but I take pride in the fact that my modest allowance is making a significant difference in someone's life, providing support and encouragement. I'm gonna keep persue this support haha.
 
 By the way, I'd like to introduce Good Neighbors once again. If you happen to read this post again, I'd like to suggest that you to join this community.
-
-```javascript
-"Good Neighbors" is an international humanitarian and
-development organization that aims to improve the lives of
-children, families, and communities in need around the world.
-Founded in South Korea in 1991, Good Neighbors operates in
-various countries, providing support through a wide range of
-programs and initiatives.
-```
 
 [What is GoodNeighnors](https://youtu.be/ANdjorrN3-M)
 [Website](https://www.goodneighbors.org/)
