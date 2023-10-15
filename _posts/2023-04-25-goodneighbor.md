@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Introducing Kidist:)"
-date:  2023-04-025 12:49:52 +0000
+title: "Introducing Kidist:)"
+date: 2023-04-025 12:49:52 +0000
 categories: development
 ---
 
