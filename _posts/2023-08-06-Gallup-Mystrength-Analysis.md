@@ -3,11 +3,16 @@ layout: post
 title:  "My Top 5 Themes via GALLUP"
 date:  2023-08-06 09:37:56 +0000
 categories: development
+banner: https://res.cloudinary.com/dtiwg4oto/image/upload/v1698570140/%EA%B7%B8%EB%A6%BC26_f0a3oy.png
 ---
 
 I recently took a strength assessment test through Gallup, and I received my results. They provided a personality assessment for which I spent around $25 as a testing fee. While I hesitated a bit about spending my allowance, I decided to invest in the personality assessment because it's a unique approach and seemed to offer more accurate results lol. This assessment aimed to identify my core strengths or themes by analyzing various aspects of my personality and characteristics. The results I obtained from the test provide insights into the areas where I naturally excel and have the potential to thrive.
 
 The assessment process involved answering a series of questions that assessed my preferences, tendencies, and responses in various situations. It took me to finish like one and a half hours lol. The accumulated data was then analyzed to determine which themes emerged as dominant in my personality.
+
+#### The Gallup StrengthsFinder test, now known as the CliftonStrengths assessment, is like a personality quiz with a twist. It's not about finding out if you're an introvert or extrovert; it's all about uncovering your unique talents and strengths. Think of it as your personal superpower detector
+
+#### Once you take the test, you get a list of your top strengths, like "Communication" or "Strategic." These strengths aren't just random words; they're descriptions of what you naturally excel at. Knowing your strengths can help you understand yourself better and make smarter career and life choices
 
 ### Here is the results
 
